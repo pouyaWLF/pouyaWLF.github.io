@@ -2,7 +2,7 @@ h1 {
     text-align: center;
     font-size: 35px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-image: url("/Users/pouya/Documents/DevProject/Second test/Resources/aq.jpeg");
+    background-image: url("aq.jpeg");
     color:rgba(255, 255, 255, 0.9);
     height: 80px;
     font-weight: bold;
